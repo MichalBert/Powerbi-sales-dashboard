@@ -27,7 +27,7 @@ Dataset obsahuje informace o:
 - návrh přehledného dashboardu pro manažerské rozhodování
 
 ## Screenshot
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Soubory
 - `Financial Analysis.pbix` – hlavní Power BI soubor  
